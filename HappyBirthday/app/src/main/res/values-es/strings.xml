@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Feliz Cumpleaños</string>
+    <string name="happy_birthday_text">¡¡¡Feliz Cumpleaños, Sam!!!</string>
+    <string name="signature_text">De John.</string>
+</resources>
